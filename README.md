@@ -8,7 +8,7 @@ allprojects {
 	
 	
 	dependencies {
-	        implementation 'com.github.a7pzero:PiracyChecker:Tag'
+	        implementation 'com.github.a7pzero:PiracyChecker:1.0'
 	}
 	
 	
